@@ -597,6 +597,8 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  align-content: center;
+  align-items: center;
 }
 
 .no-gutters {
@@ -620,6 +622,8 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  align-content: center;
+  align-items: center;
 }
 
 .col {
